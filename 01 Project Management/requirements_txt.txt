@@ -1,0 +1,21 @@
+# Car Color Trends Analysis - Requirements
+# Python package dependencies
+
+# Core data analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Additional analysis tools
+# scikit-learn>=1.1.0  # If you used any ML features
+# plotly>=5.0.0        # If you used interactive plots
